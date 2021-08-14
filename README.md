@@ -3,12 +3,12 @@
 <br>
 
 <div align="center">
-  <nav align="center">
+    <nav>
           <a href="#Technologies">Tecnologias </a>|
           <a href="#Project">Projeto </a>|
           <a href="#knowledge">Conhecimentos </a>|
           <a href="#license">Licença</a>
-        </nav>
+    </nav>
 </div>
 <br>
 <br>
