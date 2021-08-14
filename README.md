@@ -38,7 +38,7 @@ Nesse projeto foi desenvolvido o jogo da cobrinha na plataforma da <a href="digi
 
 <h2 id="knowledge"> Conhecimentos </h2>
 
-O foco do projeto foi colocar em prática conceitos básicos da linguagem de programação JavaScript onde usamos condicionais, laços de repetição, funções, eventos, introdução de objetos e orientação a objetos.
+O foco do projeto foi colocar em prática conceitos básicos da linguagem de programação JavaScript onde usamos condicionais, laços de repetição, arrays, funções, eventos, introdução de objetos e orientação a objetos.
 
 <br>
 
